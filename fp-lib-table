@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Circuit)(type KiCad)(uri "$(KIPRJMOD)/Circuit")(options "")(descr ""))
+  (lib (name VS-Logo)(type KiCad)(uri "$(KIPRJMOD)/VS-Logo")(options "")(descr ""))
+)
